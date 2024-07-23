@@ -4,8 +4,6 @@ Use Google Workspace and Gemini to automatically show your impact.
 ![impact ai](images/impactai.gif)
 
 
-## Recommend some coding experience and a Google Cloud account to replicate.
-
 
 https://developers.google.com/apps-script/guides/sheets
 
